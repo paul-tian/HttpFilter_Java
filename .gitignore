@@ -1,3 +1,15 @@
+#Mac
+.DS_Store
+
+#NetBeans 8 IDE
+.idea/
+dist/
+build/
+test/
+nbproject/
+build.xml
+manifest.mf
+
 # Compiled class file
 *.class
 
